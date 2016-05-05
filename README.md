@@ -1,4 +1,4 @@
-SHEC - Módulo Generador de Fuerza (Raspberry PI 2 & Cylon.js)
+SHEC - MotorController (Raspberry PI 2 & Cylon.js)
 ===================
 
 

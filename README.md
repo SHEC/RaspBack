@@ -1,8 +1,31 @@
 SHEC - Módulo Generador de Fuerza (Raspberry PI 2 & Cylon.js)
-==================================
+===================
 
-Módulo generador de fuerza con Cylon.JS.
 
-Instalación de depencias con: npm install
+Este proyecto utiliza Raspberri-Pi Model B.
 
-Nota: Se pueden instalar en una PC, pero solo funcionan en Raspberry-Pi
+El objetivo es controlar un motoreductor con la ayuda de un Puente H (L298N) mediante el usos de los pines GPIO.
+
+----------
+
+
+Tecnologías
+-------------
+> - [CylonJS](https://cylonjs.com/documentation/platforms/raspberry-pi/)
+
+----------
+
+Instalación
+-------------
+> **Nota:**
+Se puede instalar en cualquier PC, pero solo se puede ejecutar desde Raspberry-PI
+
+```
+npm install
+```
+Ejecución
+-------------
+```
+node "archivo.js"
+```
+"archivo.js" ==> El archivo que desees ejecutar
